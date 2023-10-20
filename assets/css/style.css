@@ -1759,6 +1759,10 @@ img {
     background-image: url(../images/billing.jpg);
     width:100% !important;
 }
+.bgAi {
+    background-image: url(../images/machine-learning.jpg);
+    width:100% !important;
+}
 .inner-banner .inner-title {
     
     padding-top: 150px;

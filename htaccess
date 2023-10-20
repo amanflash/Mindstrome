@@ -1,0 +1,16 @@
+
+# RewriteEngine on
+# RewriteCond %{HTTP_HOST} ^mindglobal\.ae$ [OR]
+# RewriteCond %{HTTP_HOST} ^www\.mindglobal\.ae$
+# RewriteRule ^/?$ "https\:\/\/www\.mindglobal\.ae\/" [R=301,L]
+
+# Redirect non-www to www
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.mindglobal.ae [NC]
+RewriteRule ^(.*)$ "http://www.mindglobal.ae" [R=301,L]
+
+# Redirect www to non-www
+# Uncomment the following lines if you want to redirect www to non-www
+# RewriteEngine On
+# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# RewriteRule ^(.*)$ http://%1/$1 [R=301,L]

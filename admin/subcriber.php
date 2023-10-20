@@ -1,6 +1,6 @@
 <?php
 session_start();
-$conn = mysqli_connect('localhost', 'root', '', 'mindstrome') or die('connection failed');
+$conn = mysqli_connect('localhost', 'veeaargroup_mindstromedubaiit', 's(q=F1rwvnEJ', 'veeaargroup_mindstromedubaiit') or die('connection failed');
 
 if (!$_SESSION['admin']) {
   header('location:login.php');

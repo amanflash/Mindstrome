@@ -1,7 +1,10 @@
 <?php
 
-
-include 'header.php';
+$pageTitle = "Best Custom Website Development Company in Dubai ";
+$pageDescription = "Mindstorm Global Technologies is a best website development agency in Dubai. We offer comprehensive business solutions, including custom web and mobile app development.";
+$pagekeywords = "Custom Website Development, Best Website Development Agency in Dubai, Top IT Company in Dubai";
+$cronical="http://www.mindglobal.ae/index.php";
+include_once('header.php');
 
 ?>
 

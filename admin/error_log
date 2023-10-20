@@ -1,0 +1,9 @@
+[04-Oct-2023 17:38:07 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/veeaargroup/public_html/mindglobal.ae/admin/index.php on line 3
+[04-Oct-2023 17:38:10 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/veeaargroup/public_html/mindglobal.ae/admin/index.php on line 3
+[04-Oct-2023 17:38:12 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/veeaargroup/public_html/mindglobal.ae/admin/index.php on line 3
+[04-Oct-2023 17:38:39 Asia/Kolkata] PHP Warning:  include(./conn.php): failed to open stream: No such file or directory in /home/veeaargroup/public_html/mindglobal.ae/admin/log.php on line 3
+[04-Oct-2023 17:38:39 Asia/Kolkata] PHP Warning:  include(./conn.php): failed to open stream: No such file or directory in /home/veeaargroup/public_html/mindglobal.ae/admin/log.php on line 3
+[04-Oct-2023 17:38:39 Asia/Kolkata] PHP Warning:  include(): Failed opening './conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/veeaargroup/public_html/mindglobal.ae/admin/log.php on line 3
+[04-Oct-2023 17:38:39 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/veeaargroup/public_html/mindglobal.ae/admin/log.php on line 9
+[04-Oct-2023 17:38:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/veeaargroup/public_html/mindglobal.ae/admin/log.php on line 10
+[04-Oct-2023 17:38:39 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/veeaargroup/public_html/mindglobal.ae/admin/log.php on line 12

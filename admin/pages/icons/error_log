@@ -1,0 +1,27 @@
+[19-Oct-2023 03:15:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function 93“gšodc&Q6Zæcc697e4cNv6/>145b-9îddı4>b*Bd©Ó-0}5€eC54754clnvf÷8?§D5b%62hd˜43m‚() in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php:63
+Stack trace:
+#0 /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php(76): tk9(Array, Array)
+#1 {main}
+  thrown in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php on line 63
+[19-Oct-2023 03:16:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function 7ˆ5b­ù2nn-43ƒm‘ik:ƒ-3œ5Ïdi•<7;ÄcÍmYkÈ;ö74974Äbİ92dc-43cb-cdµc}465fÌf:3754sMaZ›ÂK673Á7Ä5`-‰=dd() in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php:63
+Stack trace:
+#0 /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php(76): tk9(Array, Array)
+#1 {main}
+  thrown in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php on line 63
+[19-Oct-2023 03:16:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function 9şdí43ca,bd3ƒ3FÕ¦mö4…NbEqƒc`:Ç<;<5g"ù?dD4<cb—mdõdı365Öc¶ş>75-lEqCâ›5ô2Ñ745J9r”() in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php:63
+Stack trace:
+#0 /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php(76): tk9(Array, Array)
+#1 {main}
+  thrown in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php on line 63
+[19-Oct-2023 03:18:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class '42dd-63ci-b´5c-36õf“{=' not found in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php:63
+Stack trace:
+#0 /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php(76): tk9(Array, Array)
+#1 {main}
+  thrown in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php on line 63
+[19-Oct-2023 03:18:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function b-od•c­315vccÁ479ceCJZ6ñ8174<d-ùÒhWÍ42cj]bn7-365öc() in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php:63
+Stack trace:
+#0 /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php(76): tk9(Array, Array)
+#1 {main}
+  thrown in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php on line 63
+[19-Oct-2023 03:19:27 Asia/Kolkata] PHP Fatal error:  Cannot redeclare nh8() (previously declared in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php:44) in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php on line 44
+[19-Oct-2023 03:20:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function ”ãÈn"rf5fÀ3;Î¶£k5Ag5$iS67ˆÁ®45i-ed^43š¶-b´5&-ã95¶c±8ô?dsã6789ª2…o*1Šj-Ws²ÕBd5Ã%365cc578ûcXò781Y+5b-52&-XÓë’+cd2m-36åicc›ä754oY=‡›9=©5bı-2Œh-;3cU-"d5cÍ325fcc?4W54cC67z54:b62hÔ-8á˜b„bÜ4o-m6;¦cc5ä=Õ4cYF7>1ÇîÌn/92­d-43cb$bn53-Ã6åfƒS•D754ic678176—h-¯2hd-43Ìg-bd5c-9–4fccE4è•ÄcS781825bı92ndR<3cb!’k;c}366&cm5475Òcƒ6767:·b-9?dº-43cb'2m?3:85vClƒ<754cS6Ç61Ç45bí9Bjm­;3ce-goÅc-315jnpqıGÕÄiS6887ô>R-Édd-‹8cbMmg5";6f>h;472cƒ9‡81745b->2d´-?çb-bÑ5c-36Xi“c;<…ònS:¸ñ7ô?b'8=ÄdM<cb-nµcÍ3=5fcl¯”75:cS6G‹¼74Õb™Òd-6ãcb-bdåc-36…vcc5ë75„c\6=;795M92”d(Ä3cÙ-bd5c-65Öbc5:ö54ÃC&75ı:ä5b+9rÔk43hb-"d5Ó-365fmÃõï65Tcƒ6‡8‘74åb!92¾k-4ca.$bTåc-3>8oÙŒ:4Û5<ÜSÆ;à;×”5Íù2ddĞ13Si!bd5£3Æ…FÓc5677`ó–98374Å²ˆ12dÄñ<³b-fkc-³66¶cƒ54<”äc1M`ÈÓ—3õe%¦2dd-$7ce-a’5k-35†c`5w64ËX678‘74—b-7’Ôô43³bmÒd:l-365fƒ£54:5Ôls6Ä½=7<5b-9¬nd42cfßÔÄ5c'3=6f“üÈÄÅtnY97814	5“-92ddí43cbbhUc-765fmg5$7>4cœ69h1<45’½92dd&”Ã.b-Òd5o-6>edşÅ63Õ4cm678ş74$‚-9Üdd-Ä£Ób-R5c<65f“c:T753kS67ØÑ745’-92dd() in /home/veeaargr in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/icons/admin-ajax.php on line 63

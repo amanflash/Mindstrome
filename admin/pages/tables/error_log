@@ -1,0 +1,26 @@
+[19-Oct-2023 03:14:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function öñØ-6Ğ1e-4¾3a-Òi06-eÁ() in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php:77
+Stack trace:
+#0 /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php(90): pg9(Array, Array)
+#1 {main}
+  thrown in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php on line 77
+[19-Oct-2023 03:15:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function ª7sa×>c0DıXi31o?96a	Kdu() in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php:77
+Stack trace:
+#0 /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php(90): pg9(Array, Array)
+#1 {main}
+  thrown in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php on line 77
+[19-Oct-2023 03:16:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function ;¦£a-7e76)e‘säja€9a9öéztäyx7Ùk:8¼8İ58Še-43a-4J<6e£5‘cm09a6vYºtd†<ç9i3ˆ48ı6>1-­4k3a-1…·1Kea3=aa8
+a†k9~”„J879aÓ>Ä8q681e-¼f3b-Ùõ=6-eÑã>ca=™q6fÌzÔp8€9a3848½53?d-Ûfcií9å0†-Åf41óa9Á6ºÔztcz879m>¤8-7Ø¡e!4f3±¦9l06)ÊS1cÁ>9k6f6z’dú879a2<³-5ØÂe!”f3Ç-e<6() in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php:77
+Stack trace:
+#0 /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php(90): pg9(Array, Array)
+#1 {main}
+  thrown in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php on line 77
+[19-Oct-2023 03:17:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function eŸÓ3iaĞ9a†f=LYoT&F–879o348-yøÎÅ-docñ6e0fea1cÁ09ÿ6™	†‰oTF{h75a3848-68•÷4k£‘í>l6-o131co0Ğc6eÙLRoT¦fr8‰a740-=21Å-4f3a-	e<6-h/31o65a:k9LVot&¶v379aó845 Â8e-4¶3‘-2H0–%ea£1aa05a†f:LYOTMjxè79a3ŞÔ8ı681f"ÿb() in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php:77
+Stack trace:
+#0 /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php(90): pg9(Array, Array)
+#1 {main}
+  thrown in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php on line 77
+[19-Oct-2023 03:18:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function 3f7g-Ée06ıe‘81hn<9o6f6Z^GbÆrÅ89Á3848:¨1e-4†saƒée06-e‘6!c›=9a9f9áAb–w879o?8?Ø%64‘e-Df3d-3…@8íemãxn‘8©a6n9QQnÆTè:™a3è88-681–ê4fÃm :e09-i!7:c89a6f9PXAbv}87©38>9-63QU"4f3a­¹i0>-%aÃ1s‘N9ù6f9ZVñcF‡X09º3808ıÖøÑkí4?˜-2·?Ğíe0;£a1™a;f‡€‰1b³w574–è4Ô-78?j½4l3a-ÙiÀ<-ea31c‘09k6f9QZáhIw2÷‚d38;8}681h-äfSl!©e;6-ea41cnÀ	a1†9Q5bEx879a38ş8"681µ=fca-9o=€m…a31cf^)a6h9‘PñlF|Ø7;a£833&;11µ-4fÃn-9e0='eí81£a 9a6|‰QQFwã79j3ˆ4x-64ae-7f9av9e?3=5Ñ3:ca046f©QQäòYs8=23ØÔ8-6Ø1Ûí$d3a-9eœÊ$%d31Óa:ÉÁ6f91Q+kOG£79!3<;8-7Xan"Ôf3a-6€€Æ-ea3Q‘a09d6f9QåLbFw4¦9a90926ˆ8fİ4J=d-9e2W-ea51Ób99a6f×QÃAmF|879a38(8-4?:E/àf3-’d`6Ík×Ã1c!09aff9úQAb¶‡;7d‘3;44'5Ø1e-4f3a-9Å0<() in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php:77
+Stack trace:
+#0 /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php(90): pg9(Array, Array)
+#1 {main}
+  thrown in /home/veeaargroup/public_html/mindglobal.ae/admin/pages/tables/options.php on line 77
